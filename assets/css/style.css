@@ -1,0 +1,91 @@
+body{
+	height:100%;
+}
+
+.bg-info {
+	background-color: #0f6674 !important;
+  }
+
+.bg-dark {
+	background-color: 0f6674 !important;
+
+}
+div#main {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+	background-color: #0f6674;
+	
+}
+#main .container{
+	margin:200px;
+
+}
+div#sidebar {
+    width: 250px;
+    height: 95.3%;
+    position: absolute;
+}
+#sidebar-field{
+	border-top:-10px solid #1e4c53;
+}
+#sidebar .sidebar-item {
+    position: relative;
+    height: 50px;
+    padding: 10px;
+    display: inline-flex;
+    font-size: 15px;
+    align-items: center;
+    border-bottom: 1px solid #0f6674;
+    width: 100%;
+    color: #f5f0f0;
+    font-weight: 700
+}
+#sidebar .sidebar-item:hover, #sidebar .sidebar-item.active{
+	color:white;
+	text-decoration: unset;
+	background:    #CBE2B5;
+}
+
+.container-fluid.admin{
+	padding: 20px;
+	width: 80%;
+	max-width: inherit;
+	margin-left: 250px;
+	background-color: 0f6674;
+}
+
+#sidebar .sidebar-item .sidebar-icon {
+	width:11%;
+	padding: auto;
+}
+
+.container-fluid.admin2{
+	padding: 20px;
+	max-width: inherit;
+	height: 100%
+
+}
+.attendance_log_field{
+	top:20%;
+	position: relative;
+}
+#company-logo-field {
+	margin-top: -60px;
+	display: flex;
+	border-radius: 60%;
+	object-fit: cover;
+
+}
+#company-logo-field h4,#company-logo-field img{
+	margin:auto;
+	border-radius: 50%;
+	width: 300px;
+	height: 200px;
+	object-fit: cover;
+	background-color: #fff;
+}
+#log_display{
+	font-weight: bold;
+	font-size:17px;
+}
