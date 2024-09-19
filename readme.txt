@@ -1,16 +1,13 @@
-Free Download Source Code "EARS"
 
-FIRST Download
+1.XAMPP as local server
 
-1.XAMPP
-
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
+2. Visual Studio or Sublime as TextEditor
 
 3"EARS"
 
 4. Download the zip file/ download winrar
 
-5. Extract the file and copy "EARS" folder
+5. Extract the file and copy "eloginmain" folder
 
 6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
 
@@ -23,10 +20,7 @@ FIRST Download
 7.Run the script http:/EARS
 **LOGIN DETAILS** 
 
-Admin
-user: admin
-pass: admin123
+Administrator 
 
-
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
+username: weng  
+password: 12345
